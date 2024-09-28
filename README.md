@@ -2,7 +2,7 @@
 На занятиии 27.09.2024 был протестирован деплой тестового сайта на github pages и применение стилей github pages к оформлению сайт, а также протестирован деплой тестового сайта, собранного автоматически средствами mkdir.
 
 На первом этапе был создан github репозиторий и склонирован на локальный компьютер. 
-![Создание репозитория]([http://url/to/img.png](https://drive.google.com/file/d/1TvR7cyHJ1aGl4LS261QtFaX5uCd6AhQ9/view?usp=drive_link))
+![make_directory](https://github.com/user-attachments/assets/2825c08d-af6b-4508-9f60-21f62a3831a7)
 
 В репозитории была создана директория docs и в ней создан Readme.md файл. 
 ![Readme.md файл]([http://url/to/img.png](https://drive.google.com/file/d/1OCrS_81D-HYyax_ikHn9Y7zQglEEOR1L/view?usp=drive_link))
