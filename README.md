@@ -31,6 +31,35 @@
 
 Ссылка на сайт: https://murzin66.github.io/mkdocs-test/
 
+<b>Создание и развертывание статического сайта</b>
+Создаем и клонируем локально репозиторий github
+![git_clone](https://github.com/user-attachments/assets/b1b104e0-e051-47f5-b70f-475780aaacd7)
+Создаем и активируем виртуальное окружение
+![env](https://github.com/user-attachments/assets/350e7ee0-bb33-4fe1-bae0-c9f0b17f13da)
+
+Создаем новый проект с документацией mkdocs, запустим локальный сервер для просмотра содержимого, поменяем заголовок сайта, наблюдаем изменение статического сайта 
+![new_mkdocs](https://github.com/user-attachments/assets/b6bd7b28-4b98-4e07-8881-57c3cb616bf5)
+![mkdocs_site](https://github.com/user-attachments/assets/0c8626f3-9ba6-46e1-a30e-05f630a65606)
+Убеждились в том, что страница запущена, осуществляем деплой командой mkdocs gh-deploy
+![deploy1](https://github.com/user-attachments/assets/1ce999c3-3038-4520-bf4e-42add203f7e0)
+Наблюдаем появление новой ветки в репозитории github, убеждаемся в том, что в данной ветке присутствуют необходимые файлы
+![new-branch](https://github.com/user-attachments/assets/7e9c840c-7421-4f98-a914-2e14402beabb)
+![new_branch_contain](https://github.com/user-attachments/assets/4310c734-434c-4e49-99a4-adadaa5ac414)
+
+Выбираем данную ветку для развертывания на github pages
+![deploy2](https://github.com/user-attachments/assets/6f66eb26-3178-4e1a-9f08-c8615ca466e0)
+Появляется сообщение об успешном деплое 
+![deploy3](https://github.com/user-attachments/assets/def255af-064f-488f-af18-edb5ad186da1)
+Проверяем работоспособность сайта, внешний вид сайта
+![deploy4](https://github.com/user-attachments/assets/cb0fcd7e-6b6b-4eaf-b2fb-cf01c9c91b8e)
+Адрес сайта: https://murzin66.github.io/mkdocs-test/
+
+
+
+
+
+
+
 
 
  
