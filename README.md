@@ -52,7 +52,7 @@
 ![deploy3](https://github.com/user-attachments/assets/def255af-064f-488f-af18-edb5ad186da1)
 Проверяем работоспособность сайта, внешний вид сайта
 ![deploy4](https://github.com/user-attachments/assets/cb0fcd7e-6b6b-4eaf-b2fb-cf01c9c91b8e)
-Адрес сайта: https://murzin66.github.io/mkdocs-test/
+Адрес сайта: https://murzin66.github.io/mkdocs_build_deploy_test/
 
 
 
