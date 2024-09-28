@@ -46,10 +46,10 @@
 ![new-branch](https://github.com/user-attachments/assets/7e9c840c-7421-4f98-a914-2e14402beabb)
 ![new_branch_contain](https://github.com/user-attachments/assets/4310c734-434c-4e49-99a4-adadaa5ac414)
 
-Выбираем данную ветку для развертывания на github pages
-![deploy2](https://github.com/user-attachments/assets/6f66eb26-3178-4e1a-9f08-c8615ca466e0)
 Появляется сообщение об успешном деплое 
+![success](https://github.com/user-attachments/assets/70282c03-4844-4c6b-a508-6fc9a543ae27)
 ![deploy3](https://github.com/user-attachments/assets/def255af-064f-488f-af18-edb5ad186da1)
+
 Проверяем работоспособность сайта, внешний вид сайта
 ![deploy4](https://github.com/user-attachments/assets/cb0fcd7e-6b6b-4eaf-b2fb-cf01c9c91b8e)
 Адрес сайта: https://murzin66.github.io/mkdocs-test/
